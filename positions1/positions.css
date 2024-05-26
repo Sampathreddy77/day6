@@ -1,0 +1,73 @@
+body {
+  width: 100%;
+  margin: 0;
+  overflow-y: auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+.headings {
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 10px;
+  position: fixed;
+}
+.image-container {
+  width: 100%;
+  position: relative;
+}
+.Center {
+  position: absolute;
+  top: 380px;
+  left: 650px;
+  color: aliceblue;
+}
+.Center b {
+  border: 1px solid rgb(40, 39, 39);
+  padding: 20px;
+  background-color: rgb(59, 59, 59);
+  color: aliceblue;
+  font-size: 2rem;
+  font-weight: bolder;
+  opacity: 0.6;
+}
+.td-1 {
+  position: relative;
+}
+.Architec {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  border: 1px solid black;
+  width: 103px;
+  padding: 6px;
+  background-color: black;
+  color: aliceblue;
+}
+.main-table {
+  margin-left: 10px;
+  margin-bottom: 40px;
+}
+button {
+  width: 325px;
+  padding: 10px 0px;
+  font-size: 18px;
+  border: none;
+}
+input {
+  width: 95%;
+  padding: 12px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+#message {
+  width: 200px;
+  background-color: black;
+  color: aliceblue;
+  margin-bottom: 30px;
+}
+.footer-p {
+  text-align: center;
+  background-color: black;
+  padding: 30px 0px;
+  color: aliceblue;
+}
